@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Carol Martin",
+    "phone": "+1 (952) 433-2258",
+    "email": "logankeller@artiq.com",
+    "countFriends": 1,
+    "friendsPairs": "Carol Martin - Colon Salazar"
+  },
+  {
+    "name": "Green Bellan",
+    "phone": "+1 (952) 222-2258",
+    "email": "logankeller@artiq.com",
+    "countFriends": 0,
+    "friendsPairs": "Дружеские пары отсутствуют"
+  },
+  {
+    "name": "Colon Salazar",
+    "phone": "+1 (952) 533-5657",
+    "email": "logankeller@artiq.com",
+    "countFriends": 2,
+    "friendsPairs": "Colon Salazar - French Mcneil, Colon Salazar - Carol Martin"
+  },
+  {
+    "name": "French Mcneil",
+    "phone": "+1 (952) 533-6263",
+    "email": "logankeller@artiq.com",
+    "countFriends": 2,
+    "friendsPairs": "French Mcneil - Colon Salazar"
+  },
+  {
+    "name": "Morgan Keller",
+    "phone": "Номер телефона содержит ошибки",
+    "email": "logankeller@artiq.com",
+    "countFriends": 3,
+    "friendsPairs": "Дружеские пары отсутствуют"
+  },
+  {
+    "name": "Carol Meller",
+    "phone": "Номер телефона содержит ошибки",
+    "email": "logankeller@artiq.com",
+    "countFriends": 3,
+    "friendsPairs": "Дружеские пары отсутствуют"
+  },
+  {
+    "name": "Logan Mcneil",
+    "phone": "+1 (931) 533-2258",
+    "email": "logankeller@artiq.com",
+    "countFriends": 3,
+    "friendsPairs": "Дружеские пары отсутствуют"
+  },
+  {
+    "name": "Rogan Keller",
+    "phone": "+1 (952) 533-2258",
+    "email": "logankeller@artiq.com",
+    "countFriends": 3,
+    "friendsPairs": "Дружеские пары отсутствуют"
+  }
+]
