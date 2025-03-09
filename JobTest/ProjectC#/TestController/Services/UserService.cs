@@ -82,7 +82,7 @@ public class UserService : IUserService
                 u => u.Name!.Trim().ToLower(),
                 u => new HashSet<string>(u.Friends?.Select(f => f.Name!.Trim().ToLower()) ?? Enumerable.Empty<string>())
             );
-        
+
         var friendPairs = new List<string>();
 
         if (user.Friends != null)
@@ -98,14 +98,6 @@ public class UserService : IUserService
                     {
                         friendPairs.Add($"{user.Name} - {friend.Name}");
                     }
-                    else
-                    {
-                        Console.WriteLine($"Взаимная дружба найдена: {user.Name} - {friend.Name}");
-                    }
-                }
-                else
-                {
-                    Console.WriteLine($"Пользователь {friend.Name} не найден в списке.");
                 }
             }
         }
